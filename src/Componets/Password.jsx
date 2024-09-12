@@ -50,7 +50,7 @@ function Password() {
     <>
       <div className="Password-Generator">
         <div className="title">
-          <h1>Password Generator</h1>
+          <h1>Password - Generator</h1>
         </div>
         <div className="input-button">
           <input type="text" id="password" readOnly value={password} />
