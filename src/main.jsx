@@ -5,7 +5,7 @@ import { createRoot } from 'react-dom/client'
 
 
 import './index.css'
-import Password from './Componets/password.jsx'
+import Password from './Componets/Password.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
