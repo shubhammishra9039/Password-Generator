@@ -12,7 +12,7 @@ Here's a concise LinkedIn post for a password generator built using React: <br>
 
 Tech Stack: ⚛️ React 💅 CSS for styling<br>
 
-Please visit  - : https://password-generator-2x3mz17y8-shubham-mishras-projects-b09acae0.vercel.app/
+Please visit  - : https://password-generator-theta-smoky.vercel.app/
 
 <br>
 <br>
